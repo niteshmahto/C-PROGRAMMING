@@ -2,8 +2,6 @@
 Class:AI&DS
 Roll no:36
 UIN: 241A044
-
-
 /*Aim: WAP to print if entered number is even or odd.*/
 #include<stdio.h>
 int main()
@@ -21,6 +19,7 @@ else
 printf("\nEntered number is odd");
 return 0;
 }
-/* ***Even Odd Finder*** Enter the number:12
+/* output
+***Even Odd Finder*** Enter the number:12
 Entered number is 12
 Entered number is even*/
