@@ -23,12 +23,11 @@ int p,c,m,avg;
 }
 
 /* output
-
 Enter Physics marks:76
 Enter Chemistry marks:67
 Enter Maths marks:78
 
 pcm Average =73
- Eligible for admission
+ Eligible for admission*/
 
 
