@@ -3,7 +3,8 @@ Class :AI&DS
 Roll no:36
  UIN: 241A044*/
 /*Aim: WAP to get students PCM marks from the user and find the average. 
-Use conditional operator to print if the student is eligible for admission. Eligibility criteria is 50% in PCM.*/
+Use conditional operator to print if the student is eligible for admission.
+Eligibility criteria is 50% in PCM.*/
 
 #include <stdio.h>
 int main()
