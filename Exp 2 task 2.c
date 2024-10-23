@@ -1,5 +1,8 @@
 
-/*Name: Mahto Nitesh Khemnarayan  Class:AI&DS  UIN: 241A044
+/*Name: Mahto Nitesh Khemnarayan 
+Class:AI&DS 
+Roll no:36
+UIN: 241A044
 
 Aim: WAP to find sum of all odd numbers between two numbers entered by user*/
 
