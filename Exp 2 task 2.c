@@ -5,16 +5,12 @@ Roll no:36
 UIN: 241A044
 
 Aim: WAP to find sum of all odd numbers between two numbers entered by user*/
-
 #include <stdio.h>
-
 int main() {
     int start, end, sum = 0;
 
 
     printf("*** Sum of Odd Numbers ***\n");
-
-
     printf("Enter Start Number: ");
     scanf("%d", &start);
 
@@ -30,9 +26,7 @@ int main() {
 
 
     printf("Sum of all the Odd Numbers between %d and %d = %d\n", start, end, sum);
-
-
-    return 0;
+     return 0;
 
 }
 /* ***Output***
