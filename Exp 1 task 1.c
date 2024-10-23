@@ -1,4 +1,7 @@
-/*Name: Mahto Nitesh Khemnarayan  Class:AI&DS  UIN: 241A044
+/*Name: Mahto Nitesh Khemnarayan  
+Class:AI&DS 
+Roll no:36
+UIN: 241A044
  Aim: WAP to print your name, age, class, division and UIN on the screen.
  Use escape sequences to properly format the output.
 */
