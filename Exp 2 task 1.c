@@ -1,4 +1,7 @@
-/*Name: Mahto Nitesh Khemnarayan  Class:AI&DS  UIN: 241A044
+/*Name: Mahto Nitesh Khemnarayan 
+Class:AI&DS
+Roll no:36
+UIN: 241A044
 
 
 /*Aim: WAP to print if entered number is even or odd.*/
